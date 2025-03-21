@@ -2,9 +2,13 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18483547&assignment_repo_type=AssignmentRepo)
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
- strategies to tailor your content 
+Understanding your audience's expertise level is important in deciding how to present technical information. For tech experts, you can use technical terms and focus on detailed specifications, in depth functionality and performance metric.
+In contrast, for regular users with limited technical knowledge, you may consider simplifying the language. Clear straightforward explanations, visual aids and user friendly features will ease their understanding thus enhancing usability of a software.
+
 ## 2. What are some strategies to tailor your content to different audience types?
- strategies to tailor your content 
+ You should segment your audience based on expertise or needs. It is advisable to adjust the language and tone accordingly. While for tech experts advanced language focusing on technical features and capabilities will suffice, for regular users target to have, simplify explanations and emphasize ease of use and practical benefits.
+Offering multiple content formats such as videos, guides and case studies tailed based on user expertise will aid in understanding and usability.
+
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
  strategies to tailor your content 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
