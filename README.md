@@ -31,9 +31,15 @@ Mind Maps are useful for brainstorming or showing relationships between differen
 
 
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
-content is accessible to those with limited technical knowledg
+
+Headings and subheadings enhance the readability and organization of technical documents by enabling quick navigation of specific sections or topics in the document. They also provide visual cues and create breaks in the text, making it more inviting to the reader. Overall, they make technical information easier to read and understand.
+
 ## 10. What are some best practices for creating effective headings and subheadings?
-content is accessible to those with limited technical knowledg
+
+To achieve effective headings, you should use straightforward language that expressly summarises the main message of the section. You shoukd avoid overly complex and vague terminologies. Headings should be kept short and straight to the point. You should make them stand out through capitalizing title cases and using a larger font.
+The subheadings should adhere to similar stlye as headings, but also expand on the main heading while providing context for the content it contains.
+subsection's content.
+
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 content is accessible to those with limited technical knowledg
 ## 12. How can you succinctly convey the purpose and key features of a product?
