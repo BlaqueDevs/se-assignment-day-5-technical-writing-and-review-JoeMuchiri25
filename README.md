@@ -41,6 +41,9 @@ The subheadings should adhere to similar stlye as headings, but also expand on t
 subsection's content.
 
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
-content is accessible to those with limited technical knowledg
+
+The introduction of a README should grab the user's attention and provide an immediate and clear understanding of the product. It should include the product's name and purpose, the features and benefits of using the product, the target audience and a call to action to either buy or subscribe to the product.
+
 ## 12. How can you succinctly convey the purpose and key features of a product?
-content is accessible to those with limited technical knowledg
+
+You can achieve that by crafting a concise statement that combines the features a product, its uses and the benefits to the user.
